@@ -1,5 +1,7 @@
-Nama : Pak Bepe
+Nama : Inayah Saffanah Asri
 
-NPM : 2401234567
+NPM : 24006353276
 
 Kelas : PBP A
+
+Jurusan : Ilmu Komputer
